@@ -8,4 +8,14 @@ This fun little project was created in ITE back in 2023 shortly after learning P
 
 ### Running:
 Just put the script into the directory you want to organize. 
-The first iteration can only be used for [.jpg, .txt, .xlsx] files 
+The first iteration can only be used for [ .jpg, .txt, .xlsx ] files 
+
+
+## Version 2:
+Revisited this ancient thing recently and decided to make it compatible for ANY file extension now. Will leave it as is until I feel like making another version
+
+### Running:
+Put it in the directory you wanna organize.
+This version works for any file extension. just open the file in *Notepad.exe* and edit the last line of the file which looks like this:
+sorter('enter file extension here')
+Edit the string to any file extension like this: sorter('.txt') OR sorter('txt')
