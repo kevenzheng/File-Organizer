@@ -11,6 +11,7 @@ Just put the script into the directory you want to organize.
 The first iteration can only be used for [ .jpg, .txt, .xlsx ] files 
 
 
+
 ## Version 2:
 Revisited this ancient thing recently and decided to make it compatible for ANY file extension now. Will leave it as is until I feel like making another version
 
