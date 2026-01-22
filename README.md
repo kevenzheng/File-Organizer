@@ -23,5 +23,5 @@ Edit the string to any file extension like this: sorter('.txt') OR sorter('txt')
 
 
 
-#Notes:
+## Notes:
 Download *test_directory.zip* and run the scripts inside to test it if you're bored
