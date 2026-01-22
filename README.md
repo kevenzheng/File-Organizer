@@ -20,3 +20,8 @@ Put it in the directory you wanna organize.
 This version works for any file extension. just open the file in *Notepad.exe* and edit the last line of the file which looks like this:
 sorter('enter file extension here')
 Edit the string to any file extension like this: sorter('.txt') OR sorter('txt')
+
+
+
+#Notes:
+Download *test_directory.zip* and run the scripts inside to test it if you're bored
